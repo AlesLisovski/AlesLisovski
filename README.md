@@ -61,6 +61,13 @@ Russian (native), Belarusian, English (B1)
 >- **Adaptability:** Highly adaptable to dynamic environments
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlesLisovski/AlesLisovski/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <!--
 **AlesLisovski/AlesLisovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
