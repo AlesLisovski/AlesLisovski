@@ -1,22 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlesLisovski" />
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lisovski+Ales!;" />
 </h1>
 
-
+<h2 align="center">
+    
+:mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AlesLisovski-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ales_Lis) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleslisovskij@gmail.com ) [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/a_lisovskij)
+</h2>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AlesLisovski&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AlesLisovski&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AlesLisovski&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-### ⚙️Stats
 <div align=center>  
   
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlesLisovski&theme=solarized_dark)
@@ -52,6 +54,14 @@ Russian (native), Belarusian, English (B1)
 </div>
 
 <div align=center>
+    
+### Courses:
+>1. Version Control with Git(EPAM)
+>2. IT Warm-Up (EPAM/2023)
+>3. .NET Development (EPAM/2021)
+</div>
+
+<div align=center>
   
 ## 👨‍💻Personal Skills
 >- **Teamwork:** Collaborative and values diverse perspectives
@@ -63,7 +73,6 @@ Russian (native), Belarusian, English (B1)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlesLisovski/AlesLisovski/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
