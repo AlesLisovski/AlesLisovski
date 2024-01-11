@@ -4,10 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lisovski+Ales!;" />
 </h1>
 
-<h2 align="center">
+<h2 align="center"> About me </h2>
+<div align=center>
     
-:mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AlesLisovski-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ales_Lis) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleslisovskij@gmail.com ) [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/a_lisovskij)
-</h2>
+A novice  Developer from Minsk, Belarus😀
+For more information you can check my [CV]()
+</div>
+
+<h4 align="center">
+    
+:mailbox: How to contact me:   [![Telegram Badge](https://img.shields.io/badge/-AlesLisovski-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ales_Lis) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleslisovskij@gmail.com ) [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/a_lisovskij)
+</h4>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -25,6 +32,11 @@
 </div>
 
 <div align=center>
+
+### 💻IT Skills
+> Java (Novice)
+> C++ (Intermediate)
+> C# (Novice)
   
 ### 🛠Technologies and tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
