@@ -64,7 +64,7 @@ Russian (native), Belarusian, English (B1)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlesLisovski/AlesLisovski/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlesLisovski/AlesLisovski/output/github-contribution-grid-snake.gif" />
   
   <br/><br/><br/>
 </div>
