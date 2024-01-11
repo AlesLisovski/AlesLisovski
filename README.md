@@ -2,8 +2,6 @@
 <h3 align="center">BSU, FAMCS.</h3>
 <h3 align="center">Minsk, Belarus</h3>
 
-![snake gif](https://github.com/AlesLisovski/AlesLisovski/blob/output/github-contribution-grid-snake-dark.svg)
-
 # ⚡Github activity
 ### ⚙️Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlesLisovski&theme=solarized_dark)
