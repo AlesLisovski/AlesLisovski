@@ -8,7 +8,7 @@
 <div align=center>
     
 A novice  Developer from Minsk, Belarus😀
-For more information you can check my [CV](https://resume.io/r/E8Ccc3XGf)
+For more information you can check my [CV](https://github.com/AlesLisovski/AlesLisovski/blob/main/CV.pdf)
 </div>
 
 <h4 align="center">
